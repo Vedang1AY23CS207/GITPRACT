@@ -5,3 +5,8 @@ bengaluru
 
 computer science and engineering
 vtu belagavi
+<<<<<<< HEAD
+
+project management with GIT
+=======
+>>>>>>> 631cfe2ad8f8b282a86f35eb596d77f34a335c92
