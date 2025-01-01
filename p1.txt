@@ -5,3 +5,5 @@ bengaluru
 
 computer science and engineering
 vtu belagavi
+
+project management with GIT
